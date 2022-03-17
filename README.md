@@ -1,10 +1,5 @@
-# nicks-cors-test
+# cors-test
 Simple HTML & JS Tool to quickly test CORS locally.
-
-
-# Blog
-https://medium.com/pareture/simple-local-cors-test-tool-544f108311c5
-
 
 # CORS
 Cross Origin Resource Sharing (CORS) is a simple and powerful mechanism which uses HTTP headers so that a server knows where a request is coming from and can choose whether or not to accept the request based on this.
